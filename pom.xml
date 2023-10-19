@@ -41,7 +41,7 @@ under the License.
     <description>A Maven plugin that generates resources for testing CodeQL queries.</description>
 
     <properties>
-        <version.maven>3.2.5</version.maven>
+        <version.maven>3.9.5</version.maven>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
